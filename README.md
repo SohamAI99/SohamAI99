@@ -2,8 +2,6 @@
 <h3 align="center">An aspiring AI/ML Engineer & Backend Developer from India</h3>
 <h4 align="center">Pronouns: He/Him</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamai99&label=Profile%20views&color=0e75b6&style=flat" alt="sohamai99" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohamai99" alt="sohamai99 trophies" /></a> </p>
 
 - 🌱 I’m currently learning **AI Agents, n8n Automation, Node.js Backend, and Advanced DSA in Java**
@@ -54,9 +52,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamai99&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamai99&" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=sohamai99&theme=dark&hide_border=true" alt="GitHub Streak" /></p>
 
 ---
 
-<h3 align="center">⚡ Fun Fact / Tagline</h3>
 <p align="center"><em>"Not a hero, not a villain — just an engineer shaping intelligence out of zeros and ones."</em></p>
