@@ -2,14 +2,15 @@
 <h3 align="center">An aspiring AI/ML Engineer & Backend Developer from India</h3>
 <h4 align="center">Pronouns: He/Him</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SohamAI99" alt="SohamAI99 trophies" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SohamAI99" alt="SohamAI99 trophies" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **AI Agents, n8n Automation, Node.js Backend, and Advanced DSA in Java**
-
-- 👨‍💻 All of my projects are available at [github.com/SohamAI99](https://github.com/SohamAI99)
-
-- 💬 Ask me about **C++, Python, Databases, and GitHub projects**
-
+- 🌱 I’m currently learning **AI Agents, n8n Automation, Node.js Backend, and Advanced DSA in Java**  
+- 👨‍💻 All of my projects are available at [github.com/SohamAI99](https://github.com/SohamAI99)  
+- 💬 Ask me about **C++, Python, Databases, and GitHub projects**  
 - 📫 How to reach me **sohamlamb31@gmail.com**
 
 ---
@@ -48,11 +49,12 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamAI99&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SohamAI99&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com?user=SohamAI99&theme=dark&hide_border=true" alt="GitHub Streak" /></p>
+<h3 align="center">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamAI99&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SohamAI99&show_icons=true&locale=en" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=SohamAI99&theme=dark&hide_border=true" alt="GitHub Streak" height="150"/>
+</p>
 
 ---
 
