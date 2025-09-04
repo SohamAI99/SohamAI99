@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring AI/ML Engineer & Backend Developer from India</h3>
 <h4 align="center">Pronouns: He/Him</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohamAI99" alt="sohamAI99 trophies" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SohamAI99" alt="SohamAI99 trophies" /></a> </p>
 
 - 🌱 I’m currently learning **AI Agents, n8n Automation, Node.js Backend, and Advanced DSA in Java**
 
@@ -48,11 +48,11 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohamAI99&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamAI99&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamAI99&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SohamAI99&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=sohamAI99&theme=dark&hide_border=true" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=SohamAI99&theme=dark&hide_border=true" alt="GitHub Streak" /></p>
 
 ---
 
