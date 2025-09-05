@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SohamAI99" alt="SohamAI99 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SohamAI99&theme=algolia&margin-w=5&margin-h=5&no-frame=true&row=1" alt="SohamAI99 trophies" />
   </a>
 </p>
 
@@ -51,9 +51,9 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamAI99&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SohamAI99&show_icons=true&locale=en" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=SohamAI99&theme=dark&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamAI99&layout=compact&theme=radical&cache_seconds=86400" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SohamAI99&show_icons=true&theme=radical&cache_seconds=86400" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=SohamAI99&theme=radical&hide_border=true&cache_seconds=86400" height="150"/>
 </p>
 
 ---
