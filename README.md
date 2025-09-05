@@ -58,4 +58,12 @@
 
 ---
 
+### 🐍 Watch my contribution graph get eaten by a snake!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SohamAI99/SohamAI99/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 <p align="center"><em>"Not a hero, not a villain — just an engineer shaping intelligence out of zeros and ones."</em></p>
+
