@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/soham-lamb-baa32b286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://kaggle.com/sohamlamb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
 <a href="https://instagram.com/im_soham.lamb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/codee_soham99" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" alt="CodeChef" height="30" width="40" style="filter: invert(1);" /></a>
+<a href="https://www.codechef.com/users/codee_soham99" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=4z2zrIWYmGqx&format=png&color=FFFFFF" alt="CodeChef" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sohamlamb31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 <a href="https://leetcode.com/sohamlamb99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
