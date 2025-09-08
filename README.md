@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **AI Agents, n8n Automation, Node.js Backend, and Advanced DSA in Java**  
+- 🌱 I’m currently learning **Machine Learning ,AI Agents, n8n Automation, Node.js Backend, and Advanced DSA in Java**  
 - 👨‍💻 All of my projects are available at [github.com/SohamAI99](https://github.com/SohamAI99)  
 - 💬 Ask me about **C++, Python, Databases, and GitHub projects**  
 - 📫 How to reach me **sohamlamb31@gmail.com**
