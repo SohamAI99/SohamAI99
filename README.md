@@ -51,9 +51,12 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamAI99&layout=compact&theme=radical&cache_seconds=86400" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SohamAI99&show_icons=true&theme=radical&cache_seconds=86400" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=SohamAI99&theme=radical&hide_border=true&cache_seconds=86400" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SohamAI99&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamAI99&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SohamAI99&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
