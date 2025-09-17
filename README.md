@@ -51,11 +51,10 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamAI99&layout=compact&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SohamAI99&show_icons=true&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=SohamAI99&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SohamAI99&layout=compact&theme=radical&cache_seconds=86400" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SohamAI99&show_icons=true&theme=radical&cache_seconds=86400" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=SohamAI99&theme=radical&hide_border=true&cache_seconds=86400" height="150"/>
 </p>
-
 
 ---
 
@@ -68,4 +67,3 @@
 ---
 
 <p align="center"><em>"Not a hero, not a villain — just an engineer shaping intelligence out of zeros and ones."</em></p>
-
