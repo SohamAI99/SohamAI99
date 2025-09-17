@@ -51,7 +51,7 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SohamAI99&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SohamAI99&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamAI99&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
